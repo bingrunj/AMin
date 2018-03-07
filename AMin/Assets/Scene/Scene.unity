@@ -1133,7 +1133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1572112543}
   m_Layer: 0
-  m_Name: LightGroup
+  m_Name: Light_Scene_LightGroup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
